@@ -1,5 +1,7 @@
 # kalman-filter
-Python implementation of a kalman filter, with demo scripts in 2 and 3 dimensions. Also has automatic state transition matrix creation to handle 3 state dimensions (e.g. position, velocity, acceleration) .
+Python implementation of a kalman filter, with demo scripts in 2 and 3 dimensions. 
+
+Also has automatic state transition matrix creation to handle 3 state dimensions (e.g. position, velocity, acceleration) or up to 3 spacial dimensions.
 
 
 To run:
